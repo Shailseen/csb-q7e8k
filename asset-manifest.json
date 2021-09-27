@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shailseen.github.io/csb-q7e8k/static/css/main.d592e4e1.chunk.css",
+    "main.js": "https://shailseen.github.io/csb-q7e8k/static/js/main.2a0569c3.chunk.js",
+    "main.js.map": "https://shailseen.github.io/csb-q7e8k/static/js/main.2a0569c3.chunk.js.map",
+    "runtime-main.js": "https://shailseen.github.io/csb-q7e8k/static/js/runtime-main.b24accc3.js",
+    "runtime-main.js.map": "https://shailseen.github.io/csb-q7e8k/static/js/runtime-main.b24accc3.js.map",
+    "static/js/2.26582dee.chunk.js": "https://shailseen.github.io/csb-q7e8k/static/js/2.26582dee.chunk.js",
+    "static/js/2.26582dee.chunk.js.map": "https://shailseen.github.io/csb-q7e8k/static/js/2.26582dee.chunk.js.map",
+    "index.html": "https://shailseen.github.io/csb-q7e8k/index.html",
+    "static/css/main.d592e4e1.chunk.css.map": "https://shailseen.github.io/csb-q7e8k/static/css/main.d592e4e1.chunk.css.map",
+    "static/js/2.26582dee.chunk.js.LICENSE.txt": "https://shailseen.github.io/csb-q7e8k/static/js/2.26582dee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b24accc3.js",
+    "static/js/2.26582dee.chunk.js",
+    "static/css/main.d592e4e1.chunk.css",
+    "static/js/main.2a0569c3.chunk.js"
+  ]
+}
